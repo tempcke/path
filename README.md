@@ -1,8 +1,8 @@
 # Path
 
-[![build-img]][build-url]
-[![pkg-img]][pkg-url]
-[![reportcard-img]][reportcard-url]
+NOTICE: this package has moved and is now included within https://github.com/tempcke/httputil
+
+-----
 
 This package is a dependency free utility package.  Use it to construct uri paths from constant templates.
 
